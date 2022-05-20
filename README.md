@@ -26,8 +26,8 @@ Atributes for the dataset COVID-19_vaccinesdata_TR :
 - Avg_Seriously_Ill
 
 **Source**
-https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
-https://turcovid19.com/acikveri/
+- https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
+- https://turcovid19.com/acikveri/
 
 **Acknowledgements**
 These datasets were developed for Dilara Elmas' college thesis work at Isik University, where she is studying Management Information Systems and Business Administration (2022). To submit a request for your new data collection needs, please drop a mail to: dilara.elmas@isik.edu.tr
